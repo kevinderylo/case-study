@@ -1,0 +1,33 @@
+body{
+    background-color: #696969;
+    color: cornflowerblue;
+}
+.heading{
+    margin-top: 0%;
+    width: 80%;
+    font-size: 22px;
+    background-color:darkcyan;
+    color: floralwhite;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color:royalblue ;
+}
+#camera, #result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+
+}
+#pencil{
+    padding: 20px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+
+#pencil2{
+    padding: 20px;
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
